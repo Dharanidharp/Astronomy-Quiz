@@ -1,2 +1,2 @@
 # Astronomy-Quiz
-A C++ console application
+A C++ console quiz application - (Individual work)
